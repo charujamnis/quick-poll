@@ -1,4 +1,4 @@
-package org.apress.rest;
+/*package org.apress.rest;
 
 import com.apress.domain.Poll;
 import com.apress.repository.PollRepository;
@@ -21,3 +21,4 @@ public class RestStsApplication {
 
 
 }
+*/
